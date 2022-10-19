@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework.4</string>
+    <string name="sent">отправить</string>
+    <string name="email">Email Адресс</string>
+    <string name="theme">Тема</string>
+    <string name="messege">Сообщение</string>
+</resources>
